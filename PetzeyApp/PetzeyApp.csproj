@@ -24,7 +24,6 @@
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="Model\Data Access\" />
-    <Folder Include="Model\Entities\" />
   </ItemGroup>
 
 </Project>
